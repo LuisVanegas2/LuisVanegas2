@@ -49,8 +49,8 @@
 
 <!-- Estadísticas -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanegas2&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950" alt="Lenguajes más usados" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisVanegas2&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950&icon_color=3fb950" alt="Estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisVanegas2&theme=github_dark" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisVanegas2&theme=github_dark" alt="Estadísticas de GitHub" />
 </div>
 
 <br />
