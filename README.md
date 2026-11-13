@@ -56,7 +56,7 @@ estado:     ██████████░░░░  entrenando...
 
 `Python` · `CUDA` · `AST` · `Streamlit`
 
-[**Explorar GuauMiau →**](https://github.com/gminos/GuauMiau)
+<a href="https://github.com/gminos/GuauMiau"><img src="./profile/pin-guaumiau.svg" alt="GuauMiau" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -92,21 +92,15 @@ En Cisco Packet Tracer conecto routers 1841 por enlaces seriales y pruebo dos ma
 ## ▌ 第四話 — Poder de combate
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=LuisVanegas2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff&rank_icon=github" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVanegas2&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9" />
+  <img height="175" src="./profile/stats.svg" alt="Estadísticas" />
+  <img height="175" src="./profile/top-langs.svg" alt="Lenguajes" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LuisVanegas2&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&dates=8B8B8B&stroke=444444" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisVanegas2&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=8b8b8b&area=true&area_color=444444&title_color=ffffff" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisVanegas2&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
 
 <p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
