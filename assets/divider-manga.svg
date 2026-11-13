@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56"><defs>
+ <pattern id="toneS" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><circle cx="4" cy="4" r="1" fill="#111"/></pattern>
+ <filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" seed="4"/><feColorMatrix values="0 0 0 0 .2  0 0 0 0 .18  0 0 0 0 .15  0 0 0 .09 0"/></filter>
+ <filter id="ink"><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="2"/><feDisplacementMap in="SourceGraphic" scale="1.3"/></filter>
+</defs>
+<style>
+ .f { animation: spin 10s linear infinite; transform-box: fill-box; transform-origin: center; }
+ @keyframes spin { to { transform: rotate(360deg) } }
+ .brush { stroke-dasharray: 1150; stroke-dashoffset: 1150; animation: draw 5s ease-in-out infinite; }
+ @keyframes draw { 0% { stroke-dashoffset:1150 } 40%,80% { stroke-dashoffset:0 } 100% { stroke-dashoffset:-1150 } }
+</style>
+<rect x="3" y="8" width="1194" height="40" fill="#f4f1ea" stroke="#111" stroke-width="3"/>
+<rect x="3" y="8" width="1194" height="40" fill="url(#toneS)" opacity=".25"/>
+<g filter="url(#ink)">
+ <path d="M30,30 C250,22 450,36 600,28 S950,22 1170,30" fill="none" stroke="#bbb" stroke-width="1.2"/>
+ <path class="brush" d="M30,30 C250,22 450,36 600,28 S950,22 1170,30" fill="none" stroke="#111" stroke-width="3.5" stroke-linecap="round"/>
+ <g class="f"><path transform="translate(600.0,28.0) rotate(0.0)" d="M0,0 C-9.1,-3.9 -9.8,-13.7 -2.9,-14.6 L0,-12.3 L2.9,-14.6 C9.8,-13.7 9.1,-3.9 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(600.0,28.0) rotate(72.0)" d="M0,0 C-9.1,-3.9 -9.8,-13.7 -2.9,-14.6 L0,-12.3 L2.9,-14.6 C9.8,-13.7 9.1,-3.9 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(600.0,28.0) rotate(144.0)" d="M0,0 C-9.1,-3.9 -9.8,-13.7 -2.9,-14.6 L0,-12.3 L2.9,-14.6 C9.8,-13.7 9.1,-3.9 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(600.0,28.0) rotate(216.0)" d="M0,0 C-9.1,-3.9 -9.8,-13.7 -2.9,-14.6 L0,-12.3 L2.9,-14.6 C9.8,-13.7 9.1,-3.9 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(600.0,28.0) rotate(288.0)" d="M0,0 C-9.1,-3.9 -9.8,-13.7 -2.9,-14.6 L0,-12.3 L2.9,-14.6 C9.8,-13.7 9.1,-3.9 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><circle cx="600.0" cy="28.0" r="2.3" fill="#111"/></g>
+ <g class="f" style="animation-direction:reverse"><path transform="translate(300.0,28.0) rotate(20.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(300.0,28.0) rotate(92.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(300.0,28.0) rotate(164.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(300.0,28.0) rotate(236.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(300.0,28.0) rotate(308.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><circle cx="300.0" cy="28.0" r="1.6" fill="#111"/></g>
+ <g class="f" style="animation-direction:reverse"><path transform="translate(900.0,28.0) rotate(40.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(900.0,28.0) rotate(112.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(900.0,28.0) rotate(184.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(900.0,28.0) rotate(256.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><path transform="translate(900.0,28.0) rotate(328.0)" d="M0,0 C-6.3,-2.7 -6.8,-9.5 -2.0,-10.1 L0,-8.5 L2.0,-10.1 C6.8,-9.5 6.3,-2.7 0,0 Z" fill="#fff" stroke="#111" stroke-width="1.5"/><circle cx="900.0" cy="28.0" r="1.6" fill="#111"/></g>
+</g>
+<rect x="3" y="8" width="1194" height="40" filter="url(#paper)"/>
+</svg>

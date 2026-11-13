@@ -1,6 +1,6 @@
 <!-- ═════════════════ PORTADA ═════════════════ -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Luis Vanegas · Redes, CUDA e IA" />
+  <img src="./assets/banner-manga.svg" width="100%" alt="Luis Vanegas · Redes, CUDA e IA" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/LuisVanegas2?label=SEGUIDORES&style=for-the-badge&color=111111&labelColor=555555" alt="seguidores" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+<p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
 <!-- ═════════════════ SOBRE MÍ ═════════════════ -->
 <table>
@@ -42,7 +42,7 @@ estado:     ██████████░░░░  entrenando...
 </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+<p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
 <!-- ═════════════════ PROYECTOS ═════════════════ -->
 ## ▌ 第二話 — En mi laboratorio
@@ -70,7 +70,7 @@ En Cisco Packet Tracer conecto routers 1841 por enlaces seriales y pruebo dos ma
 </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+<p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
 <!-- ═════════════════ ARSENAL ═════════════════ -->
 ## ▌ 第三話 — Arsenal
@@ -86,7 +86,7 @@ En Cisco Packet Tracer conecto routers 1841 por enlaces seriales y pruebo dos ma
   <img src="https://img.shields.io/badge/Packet_Tracer-Labs-4d4d4d?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+<p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
 <!-- ═════════════════ ESTADÍSTICAS ═════════════════ -->
 ## ▌ 第四話 — Poder de combate
@@ -108,7 +108,7 @@ En Cisco Packet Tracer conecto routers 1841 por enlaces seriales y pruebo dos ma
   <img src="https://github-profile-trophy.vercel.app/?username=LuisVanegas2&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+<p align="center"><img src="./assets/divider-manga.svg" width="100%" /></p>
 
 <!-- ═════════════════ SERPIENTE ═════════════════ -->
 ## ▌ 第五話 — Rastro de batalla
@@ -135,5 +135,5 @@ Redes        Cisco IOS · Packet Tracer
 </details>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="つづく" />
+  <img src="./assets/footer-manga.svg" width="100%" alt="つづく" />
 </p>
