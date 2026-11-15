@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Luis Alfredo Vanegas Avila, Rank: C</title>
-        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 38, PRs totales: 5, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 2</desc>
+        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 34, PRs totales: 1, Issues totales: 0, Contribuciones en (el a&#241;o pasado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 242.93104168098165;
+        stroke-dashoffset: 246.69410267370424;
       }
     }
   
@@ -184,7 +184,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >38</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >5</text>
+      >1</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="274.01"
         y="12.5"
         data-testid="contribs"
-      >2</text>
+      >1</text>
     </g>
   </g>
     </svg>
